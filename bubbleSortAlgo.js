@@ -26,7 +26,3 @@ function bubbleSort(originalArray) {
 
   return array;
 }
-
-const names = [ada, emma, tunde, jet - li, wale];
-
-console.log(bubbleSort(names));
